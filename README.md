@@ -3,7 +3,7 @@
 Использовал Gradle 8 and java 17. Подключил зависимость application для сборки проекта.
 
 Для запуска нужно:
-# 1. Зайти в папку Sort 
-# 2. Положить файлы в папку files (они должны быть отсортированны). Файл out.txt там уже есть 
-# 3. Написать команду `./build/install/Sort/bin/Sort [-a or -d]` (по умолчанию -a) `[-s or -i] out.txt file1.txt file2.txt ...`
-# 4. Открыть файл `files/out.txt`
+##### 1. Зайти в папку Sort 
+##### 2. Положить файлы в папку files (они должны быть отсортированны). Файл out.txt там уже есть 
+##### 3. Написать команду `./build/install/Sort/bin/Sort [-a or -d]` (по умолчанию -a) `[-s or -i] out.txt file1.txt file2.txt ...`
+##### 4. Открыть файл `files/out.txt`
